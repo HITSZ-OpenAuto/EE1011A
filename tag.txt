@@ -1,0 +1,3 @@
+category: 必修
+semester: 第一学年春季
+name: 电路IA
