@@ -1,0 +1,622 @@
+{
+  ".gitattributes": {
+    "size": 810,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969671,
+    "hash": "bf506d7b7686560c27ee57f86135b1760b74d609"
+  },
+  ".hoa/worktree.json": {
+    "size": 25146,
+    "time": 1751908365,
+    "hash": "a156024fe1b81ad6a0e13543f9bcb9b1ab6ff316"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086088,
+    "hash": "ae4a493361ab0edd423e6d01d0dbd46e5614c690"
+  },
+  "README.md": {
+    "size": 11182,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "assignments/README.md": {
+    "size": 296,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第1章 习题解答（作业部分）.doc": {
+    "size": 1506816,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第1章 习题解答（作业部分）.pdf": {
+    "size": 298991,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第2章 习题解答（作业部分）.pdf": {
+    "size": 347211,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第2章 线性直流电路（作业部分）.docx": {
+    "size": 1013986,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第3章 习题解答（作业部分）.pdf": {
+    "size": 413899,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第3章 电路定理（作业部分）.doc": {
+    "size": 2781696,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第4章 习题解答（作业部分）.doc": {
+    "size": 2635776,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第4章 习题解答（作业部分）.pdf": {
+    "size": 698189,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第4章 正弦电流电路 其他题目解答.docx": {
+    "size": 1639938,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/WJD_revised_version/第4章 正弦电流电路 其他题目解答.pdf": {
+    "size": 749529,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/作业本.zip": {
+    "size": 16161547,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "assignments/电路习题对应章节.docx": {
+    "size": 20451,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/电路习题解答.docx": {
+    "size": 15371857,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/电路理论基础第四版习题解答.rar": {
+    "size": 16033015,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "assignments/电路课本习题解答.pdf": {
+    "size": 6962297,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "books/电路理论基础第四版教材勘误2017.01.13.pdf": {
+    "size": 520813,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "books/电路考研大串讲解析.pdf": {
+    "size": 19810791,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/2022春电路IA复习题.pdf": {
+    "size": 260041,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "exams/2022春电路IA复习题参考答案.pdf": {
+    "size": 847296,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "exams/2022电路IA期末复习题(2).pdf": {
+    "size": 603434,
+    "time": 1725519332,
+    "hash": "56b473b09c605da79b66d56794213f30438f64c7"
+  },
+  "exams/2022电路IA期末复习题(2)参考答案.pdf": {
+    "size": 3226839,
+    "time": 1725519332,
+    "hash": "56b473b09c605da79b66d56794213f30438f64c7"
+  },
+  "exams/2022电路IA期末复习题.pdf": {
+    "size": 497138,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/2022电路IA期末复习题参考答案.pdf": {
+    "size": 8147815,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/2023年春电路IA期末考试试题（回忆版）.pdf": {
+    "size": 1075368,
+    "time": 1725519332,
+    "hash": "56b473b09c605da79b66d56794213f30438f64c7"
+  },
+  "exams/2023春学期电路II期末试题（回忆手写版）.pdf": {
+    "size": 28053236,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "exams/2023电路IA期末试题参考答案V1.1.pdf": {
+    "size": 13784965,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/2023电路模拟.pdf": {
+    "size": 2066143,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/2023电路模拟答案.pdf": {
+    "size": 8522463,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/README.md": {
+    "size": 165,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "exams/[本部]电路试题（电子包浆严重）.pdf": {
+    "size": 35121109,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/README.md": {
+    "size": 3771,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/卡西欧的简单使用.txt": {
+    "size": 1747,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/作业1.pdf": {
+    "size": 169715,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/作业1第2题另解.pdf": {
+    "size": 497539,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/电路作业1参考答案(1).pdf": {
+    "size": 136413,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/电路复习1课件.pdf": {
+    "size": 367582,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/电路复习1课件.pptx": {
+    "size": 486438,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习1 电路元件和电路基本定律/第1讲课堂例题.pdf": {
+    "size": 136247,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/2.12讲解.mp4": {
+    "size": 14884338,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/2.14讲解.mp4": {
+    "size": 23100510,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/2.21-2.22讲解.mp4": {
+    "size": 20000534,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/2.27讲解.mp4": {
+    "size": 20996062,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/2.30讲解.mp4": {
+    "size": 13618369,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/作业2 参考答案.pdf": {
+    "size": 4078765,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/作业2.pdf": {
+    "size": 188696,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/电路复习2课件.pdf": {
+    "size": 419098,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/电路复习2课件.pptx": {
+    "size": 575383,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/第2讲课堂例题.pdf": {
+    "size": 164373,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习2 线性电路的一般分析方法/节点电压法补充资料.pdf": {
+    "size": 146981,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/作业3参考答案（改）.pdf": {
+    "size": 2287705,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/作业3（改）.pdf": {
+    "size": 198147,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/电路复习3 课件new.pdf": {
+    "size": 927574,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/电路复习3 雨课堂课件.pptx": {
+    "size": 718690,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/第3章习题讲解.pdf": {
+    "size": 266159,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/第3讲补充材料.pdf": {
+    "size": 1901544,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/第3讲课堂例题.pdf": {
+    "size": 264178,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/2.8.mp4": {
+    "size": 11576408,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/3.1例1.mp4": {
+    "size": 18033388,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/3.2例2.mp4": {
+    "size": 11274293,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/3.2例3.mp4": {
+    "size": 14046199,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/互易定理例.mp4": {
+    "size": 11018901,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/戴维南例题(a).mp4": {
+    "size": 12605366,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/戴维南例题(b).mp4": {
+    "size": 11912289,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/星三角.mp4": {
+    "size": 5924014,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/特勒根定理例.mp4": {
+    "size": 17308071,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习3 等效方法和电路定理/配套视频/纯电阻一端口等效.mp4": {
+    "size": 8867604,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/作业4 第9题另解.pdf": {
+    "size": 1083047,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/作业4.pdf": {
+    "size": 493085,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/作业四答案.pdf": {
+    "size": 1803255,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/电路复习4(上).pdf": {
+    "size": 2470584,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/电路复习4(上).pptx": {
+    "size": 3279190,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/电路复习4(下).pdf": {
+    "size": 3928625,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/电路复习4(下).pptx": {
+    "size": 6811186,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/第4章 正弦电流电路笔记.pdf": {
+    "size": 2446297,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/第4讲课堂例题（上）.pdf": {
+    "size": 583106,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/第4讲课堂例题（下）.pdf": {
+    "size": 291791,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习4 正弦稳态电路的相量分析/耦合电感补充.pdf": {
+    "size": 1349205,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习5 频率特性和谐振现象/作业5.pdf": {
+    "size": 238503,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习5 频率特性和谐振现象/作业5答案.pdf": {
+    "size": 236811,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习5 频率特性和谐振现象/电路复习5.pdf": {
+    "size": 3104034,
+    "time": 1734278107,
+    "hash": "0dfdeba567eabf0e345ba462e3438334434dcb09"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习5 频率特性和谐振现象/电路复习5.pptx": {
+    "size": 3117857,
+    "time": 1734278107,
+    "hash": "0dfdeba567eabf0e345ba462e3438334434dcb09"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习5 频率特性和谐振现象/电路第五次课例题.pdf": {
+    "size": 409123,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习6 非正弦周期电流电路的分析/电路复习6课件(共14页ppt).pdf": {
+    "size": 2414549,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习6 非正弦周期电流电路的分析/电路复习6课件(共14页ppt).pptx": {
+    "size": 2911217,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习6 非正弦周期电流电路的分析/电路课后作业6.pdf": {
+    "size": 198726,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习6 非正弦周期电流电路的分析/电路课后作业6参考答案.pdf": {
+    "size": 2901005,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习6 非正弦周期电流电路的分析/第6次课课堂例题.pdf": {
+    "size": 227910,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习7 三相电路/README.md": {
+    "size": 128,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习7 三相电路/电路习题7答案.pdf": {
+    "size": 427054,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习7 三相电路/电路作业7.pdf": {
+    "size": 215103,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习7 三相电路/电路复习7.pptx": {
+    "size": 12680539,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习7 三相电路/第1个视频.mp4": {
+    "size": 43285675,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/伪二阶电路.pdf": {
+    "size": 177356,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/伪二阶电路讲解.mp4": {
+    "size": 45577373,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/电路复习8课件(共47页ppt).pdf": {
+    "size": 2547124,
+    "time": 1733638122,
+    "hash": "5a75cf071f4dfd9d65c74f2be407638e6de27c74"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/电路复习8课件(共47页ppt).pptx": {
+    "size": 4364966,
+    "time": 1733638122,
+    "hash": "5a75cf071f4dfd9d65c74f2be407638e6de27c74"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/电路第8次课作业 参考答案.pdf": {
+    "size": 5605354,
+    "time": 1733638122,
+    "hash": "5a75cf071f4dfd9d65c74f2be407638e6de27c74"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/电路第8次课作业.pdf": {
+    "size": 375679,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习8 线性动态电路暂态过程的时域分析/第8次课课堂例题.pdf": {
+    "size": 370246,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习9 线性动态电路暂态过程的复频域分析/电路复习9.pdf": {
+    "size": 2917352,
+    "time": 1733638122,
+    "hash": "5a75cf071f4dfd9d65c74f2be407638e6de27c74"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习9 线性动态电路暂态过程的复频域分析/电路复习9.pptx": {
+    "size": 3496719,
+    "time": 1733638122,
+    "hash": "5a75cf071f4dfd9d65c74f2be407638e6de27c74"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习9 线性动态电路暂态过程的复频域分析/电路第9次课作业 参考答案.pdf": {
+    "size": 3807391,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/2022暑期电路补习（全9讲）资料/电路复习9 线性动态电路暂态过程的复频域分析/电路第9次课作业.pdf": {
+    "size": 243453,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "materials/README.md": {
+    "size": 51,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "notes/2023电路IA笔记-psp.pdf": {
+    "size": 17899570,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/2023 电路总结01 - 王灿.pdf": {
+    "size": 352870,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "slides/2023 电路总结02 - 王灿.pdf": {
+    "size": 530931,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "slides/README.md": {
+    "size": 60,
+    "time": 1709376598,
+    "hash": "df0e2e7b7cf002b7645dc37e63c9d270ffc9cd18"
+  },
+  "slides/第一章 电路元件和电路基本规律.zip": {
+    "size": 3106599,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第七章 频率特性和谐振现象.zip": {
+    "size": 1512762,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第三章 电路定理.zip": {
+    "size": 1597082,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第九章 线性动态电路暂态过程的复频域分析.zip": {
+    "size": 1089949,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第二章 线性直流电路.zip": {
+    "size": 1882560,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第五章 三相电路.zip": {
+    "size": 2097955,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第八章 线性动态电路暂态过程的时域分析.zip": {
+    "size": 2391977,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第六章 非正弦周期电流电路.zip": {
+    "size": 1480524,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "slides/第四章 正弦电流电路.zip": {
+    "size": 7060728,
+    "time": 1739764893,
+    "hash": "9238e0ef6d2b010920e0a644668fa0e7b6139e95"
+  },
+  "tag.txt": {
+    "size": 61,
+    "time": 1715519480,
+    "hash": "1bda5679ca8effbaa1837c869f7bfe068d59192e"
+  }
+}
