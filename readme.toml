@@ -1,0 +1,112 @@
+course_name = "电路IA"
+repo_type = "normal"
+course_code = "EE1011A"
+
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "王灿"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：机电学院最好的老师之一，对于电路这门相对难懂的课，要把它讲好真的不容易。老师会用幻灯片，适当结合板书，对于题目的做法讲解细致。课前会用雨课堂推送预习题（计入平时成绩），课中也有现场做题，难度较大。
+              听课建议：选了他就好好听吧，这都不听算是亏大了。
+              关于平时分建议：上课推的题尽量多多和群友室友交流（难度较大且限时）。
+  """
+  author = { name = "Oliver Wu & Maxwell Jay", link = "https://github.com/OliverWu515", date = "2023-11-01" }
+
+  [[lecturers.reviews]]
+  content = """个人认为王灿老师讲得不错，有启发意义。"""
+  author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-09-01" }
+[[lecturers]]
+name = "王毅"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：车轱辘话比较多，总结能力较强，不强调做题细节，只点拨大致思路。
+              听课建议：听一个知识总结，掌握大致脉络还是足够的；但是对于做题的训练不够，所以课下需要多花时间。
+              对于王毅老师的学生，也可以去串门听听王灿老师的课，可以帮助更好地理解知识点。
+  """
+  author = { name = "Oliver Wu & Maxwell Jay", link = "https://github.com/OliverWu515", date = "2023-11-01" }
+
+# 教材与参考书(不需要author)
+[[textbooks]]
+title = "电路理论基础"
+book_author = "孙立山 / 陈希有 等"
+publisher = "高等教育出版社"
+edition = "第四版"
+type = "textbook"
+
+[[textbooks]]
+title = "电路"
+book_author = "邱关源 / 罗先觉 等"
+publisher = "高等教育出版社"
+edition = "第六版"
+type = "reference"
+
+[[textbooks]]
+title = "电路考研大串讲"
+book_author = "孙立山 等"
+publisher = "科学出版社"
+edition = ""
+type = "reference"
+
+[[textbooks]]
+title = "电路原理"
+book_author = "汪建 等"
+publisher = "清华大学出版社"
+edition = "第 2 版"
+type = "reference"
+
+[[textbooks]]
+title = "Fundamentals of Electric Circuits"
+book_author = "Charles K. Alexander, et al."
+publisher = "McGraw-Hill"
+edition = "4th Edition"
+type = "reference"
+
+# 网络资源（电子书、网课等）
+[[online_resources]]
+title = "卡西欧FX-991CNX计算器使用指南"
+url = "https://hoa.moe/blog/how-to-use-fx991cn/"
+description = "计算能力包括笔算能力和卡西欧能力，二者缺一不可。"
+
+# 核心课程评价区块
+[[course]]
+content = """
+课程主要内容涵盖《电路理论基础（第四版）》前 9 章：
+1. **电路元件和电路基本定律**：电路模型、基尔霍夫定律、元件时域模型等。
+2. **线性直流电路**：电阻网络等效、支路电流法、回路电流法、节点电压法、含运放电路分析。
+3. **电路定理**：叠加定理、戴维南/诺顿定理、特勒根定理、互易定理、对偶原理。
+4. **正弦稳态电路的相量分析**：相量法、阻抗导纳、功率、耦合电感、理想变压器。
+5. **三相电路**：对称/不对称三相电路计算、功率。
+6. **非正弦周期电流电路**：谐波分析、有效值与平均功率。
+7. **频率特性和谐振现象**：网络函数、串联/并联谐振。
+8. **线性动态电路暂态过程的时域分析**：一阶/二阶电路响应、三要素法、卷积积分、状态变量法。
+9. **线性动态电路暂态过程的复频域分析**：拉普拉斯变换应用、复频域网络函数。
+"""
+author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2024-02-01" }
+
+[[exam]]
+content = """
+考试难度较难（22 届难度有所下降）。
+考试常常会出现大量中档题，每题都不难但设置障碍，需要思考本质，容易做不完。
+题目类型绝大多数在作业题中出现过，所以作业题要会，而且要整理。
+
+2023 年电信专业某班电路期末成绩统计：
+
+| 总人数 | 60- | 60-70 | 70-80 | 80-90 | 90+ | 其他 | 平均分 | 最高分 | 最低分 |
+| :----: | :-: | :---: | :---: | :---: | :-: | :--: | :----: | :----: | :----: |
+|  148   | 23  |  55   |  30   |  22   | 16  |  2   | 67.19  |   97   |   8    |
+"""
+author = { name = "Oliver Wu & Maxwell Jay", link = "https://github.com/OliverWu515", date = "2023-11-01" }
+
+# 兜底板块
+[[misc]]
+topic = "学习顺序建议"
+content = """
+我个人会将第二、三章的学习顺序调整如下：
+2.3 支路电流法；2.4 回路电流法；2.5 节点电压法；2.6-2.7 含运放电路的分析；2.1 电阻网络等效；3.1/2.2/3.3 含源支路和含源一端口等效；3.2 齐性定理、叠加定理；3.4-3.6 特勒根定理、互易定理、对偶原理。
+
+此外，预习时可将第六章（非正弦周期电流电路）提到第五章（三相电路）之前。
+"""
+author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2024-02-01" }
