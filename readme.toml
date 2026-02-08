@@ -42,7 +42,8 @@ content = """
 """
 author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-11" },
-  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" }]
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" },
+]
 
 
 [[sections]]
@@ -133,7 +134,8 @@ content = """
 """
 author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-11" },
-  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" }]
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" },
+]
 
 [[sections]]
 title = "学习建议"
