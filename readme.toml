@@ -1,40 +1,36 @@
 course_name = "电路IA"
-repo_type = "normal"
 course_code = "EE1011A"
-
+repo_type = "normal"
 description = """
 本门课是选课制，有两个老师授课，所有电气、自动化学生从两个老师的课里任选，而不是传统的按班级划分。
 电路涉及很多复数运算和解方程，一定要熟练掌握科学计算器的使用，推荐型号 Casio 991CNX。
 对于一般学生，考前做考研题没有必要，考试难度不会那么高，能够熟悉作业题足矣。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "王灿"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：机电学院最好的老师之一，对于电路这门相对难懂的课，要把它讲好真的不容易。老师会用幻灯片，适当结合板书，对于题目的做法讲解细致。课前会用雨课堂推送预习题（计入平时成绩），课中也有现场做题，难度较大。
 听课建议：选了他就好好听吧，这都不听算是亏大了。
 关于平时分建议：上课推的题尽量多多和群友室友交流（难度较大且限时）。
 """
+author = [
+  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-11" },
+  { name = "Maxwell Jay", link = "", date = "2023-11" },
+]
 
-[[lecturers.reviews.author]]
-name = "Oliver Wu"
-link = "https://github.com/OliverWu515"
-date = "2023-11"
-[[lecturers.reviews.author]]
-name = "Maxwell Jay"
-link = ""
-date = "2023-11"
-
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "个人认为王灿老师讲得不错，有启发意义。"
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-09" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王毅"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：车轱辘话比较多，总结能力较强，不强调做题细节，只点拨大致思路。
 听课建议：听一个知识总结，掌握大致脉络还是足够的；但是对于做题的训练不够，所以课下需要多花时间。
@@ -44,7 +40,6 @@ author = [
   { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2023-11" },
   { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" },
 ]
-
 
 [[sections]]
 title = "教材"
