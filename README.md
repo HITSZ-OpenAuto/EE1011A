@@ -1,10 +1,5 @@
 # EE1011A - 电路IA
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业35%](https://img.shields.io/badge/作业-35%25-wheat)
-![期末考试65%](https://img.shields.io/badge/期末考试-65%25-wheat)
 
 本门课是选课制，有两个老师授课，所有电气、自动化学生从两个老师的课里任选，而不是传统的按班级划分。
 电路涉及很多复数运算和解方程，一定要熟练掌握科学计算器的使用，推荐型号 Casio 991CNX。
